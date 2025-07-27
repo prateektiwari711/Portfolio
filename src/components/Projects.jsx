@@ -10,7 +10,7 @@ const projects = [
     description:
       "One stop solution for all study material for AIVSC preparation journey.",
     techStack: ["Node.js", "MongoDB", "React.js", "Express.js"],
-    link: "https://taskmate-pearl.vercel.app/",
+    link: "https://aivsc-journey.vercel.app/",
     image: aivscImg,
   },
   {
