@@ -6,20 +6,17 @@ import aivscImg from "../assets/aivsc-journey.jpg";
 const projects = [
   {
     id: 1,
-<<<<<<< HEAD
     title: "Shopit",
     description: "Inventory Mangement app for your shop",
     techStack: ["Node.js", "MongoDB", "React.js"],
     link: "https://shopit-frontend-eight.vercel.app/",
     image: shopitImg,
-=======
     title: "AIVSC JOURNEY",
     description:
       "One stop solution for all study material for AIVSC preparation journey.",
     techStack: ["Node.js", "MongoDB", "React.js", "Express.js"],
     link: "https://aivsc-journey.vercel.app/",
     image: aivscImg,
->>>>>>> 0a4d9c34a252d2ed8a9fa98892974467d98c26c9
   },
   {
     id: 2,
