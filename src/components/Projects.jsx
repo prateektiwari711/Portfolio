@@ -1,6 +1,6 @@
 import React from "react";
 import taskMateImg from "../assets/taskmate.png";
-import shopitImg from "../assets/filmvault.png";
+import shopitImg from "../assets/shopit.png";
 import aivscImg from "../assets/aivsc-journey.jpg";
 
 const projects = [
