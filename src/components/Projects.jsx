@@ -11,12 +11,6 @@ const projects = [
     techStack: ["Node.js", "MongoDB", "React.js"],
     link: "https://shopit-frontend-eight.vercel.app/",
     image: shopitImg,
-    title: "AIVSC JOURNEY",
-    description:
-      "One stop solution for all study material for AIVSC preparation journey.",
-    techStack: ["Node.js", "MongoDB", "React.js", "Express.js"],
-    link: "https://aivsc-journey.vercel.app/",
-    image: aivscImg,
   },
   {
     id: 2,
