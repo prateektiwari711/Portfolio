@@ -1,17 +1,16 @@
 import React from "react";
 import taskMateImg from "../assets/taskmate.png";
-import filmVaultImg from "../assets/filmvault.png";
+import shopitImg from "../assets/filmvault.png";
 import aivscImg from "../assets/aivsc-journey.jpg";
 
 const projects = [
   {
     id: 1,
-    title: "AIVSC JOURNEY",
-    description:
-      "One stop solution for all study material for AIVSC preparation journey.",
-    techStack: ["Node.js", "MongoDB", "React.js", "Express.js"],
-    link: "https://taskmate-pearl.vercel.app/",
-    image: aivscImg,
+    title: "Shopit",
+    description: "Inventory Mangement app for your shop",
+    techStack: ["Node.js", "MongoDB", "React.js"],
+    link: "https://shopit-frontend-eight.vercel.app/",
+    image: shopitImg,
   },
   {
     id: 2,
@@ -23,11 +22,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "FilmVault",
-    description: "A movie catalog app with a search feature and watchlist.",
-    techStack: ["React", "Vite", "TMDB API"],
-    link: "https://prateektiwari711.github.io/FilmVault/",
-    image: filmVaultImg,
+    title: "AIVSC JOURNEY",
+    description:
+      "One stop solution for all study material for AIVSC preparation journey.",
+    techStack: ["Node.js", "MongoDB", "React.js", "Express.js"],
+    link: "https://aivsc-journey.vercel.app/",
+    image: aivscImg,
   },
 ];
 
