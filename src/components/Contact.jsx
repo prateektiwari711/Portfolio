@@ -81,7 +81,7 @@ function Contact() {
 
           <div className="flex space-x-6 mt-8">
             <motion.a
-              href="www.linkedin.com/in/prt711"
+              href="https://linkedin.com/in/prt711"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.2 }}

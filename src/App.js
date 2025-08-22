@@ -12,7 +12,7 @@ function App() {
   const contactRef = useRef(null);
 
   const scrollToSection = (ref) => {
-    const offset = 80; // Offset to account for navbar height
+    const offset = 80;
     window.scrollTo({
       top: ref.current.offsetTop - offset,
       behavior: "smooth",
@@ -30,7 +30,6 @@ function App() {
         }}
       />
 
-      {/* Sections */}
       <div ref={bannerRef}>
         <Banner />
       </div>

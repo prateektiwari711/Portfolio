@@ -9,7 +9,7 @@ const projects = [
     title: "Shopit",
     description: "Inventory Mangement app for your shop",
     techStack: ["Node.js", "MongoDB", "React.js"],
-    link: "https://shopit-frontend-eight.vercel.app/",
+    link: "https://shopit-frontend-jet.vercel.app/",
     image: shopitImg,
   },
   {
